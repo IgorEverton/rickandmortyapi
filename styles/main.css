@@ -1,0 +1,24 @@
+.search{
+    display: flex;
+    justify-content: center;
+    width: auto;
+    flex-direction: row;
+    margin-top: 2.5rem;
+}
+.search input{
+    width: 28rem;
+    background-color: white;
+    height: 35px;
+}
+.material-icons {
+    font-size: 24px;
+    color: #333;
+    cursor: pointer;
+    height: 35px;
+    margin-right: 3px;
+    width: 35px;
+    position: fixed;
+    right: 74rem;
+    top: 8.9rem;
+    background-color: white;
+  }
